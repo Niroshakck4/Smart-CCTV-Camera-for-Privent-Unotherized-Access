@@ -4,4 +4,4 @@ my project is to implement CCTV camara using python.it is design to built in ins
 # Basic Diagram of the project
 ![digram](https://github.com/Niroshakck4/Smart-CCTV-Camera-for-Privent-Unotherized-Access/blob/main/Drawing1.jpg)
 # Flowchart of the project
-	![flowchart](https://github.com/Niroshakck4/Smart-CCTV-Camera-for-Privent-Unotherized-Access/blob/main/flow%20chart.jpg)
+![flowchart](https://github.com/Niroshakck4/Smart-CCTV-Camera-for-Privent-Unotherized-Access/blob/main/flow%20chart.jpg)
