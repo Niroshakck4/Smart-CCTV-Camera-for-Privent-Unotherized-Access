@@ -1,6 +1,10 @@
 # Smart CCTV Camera for Prevent Unauthorized Access
 
-my project is to implement CCTV camara using python.it is design to built in inside the data center to isolate various kind of authorized peoples to done their day day actives on exact what they wont to be. any other access of inside data center unit  will be avoided implementing this project.
+My project is to implement a CCTV camera using Python. It is designed to be built inside the data center to monitor various kinds of authorized personnel as they carry out their daily activities. Any unauthorized access to the inside of the data center will be prevented by implementing this project.
+
+--- 
+
+Feel free to ask if you need further assistance with your project!
 # Basic Diagram of the project
 ![digram](https://github.com/Niroshakck4/Smart-CCTV-Camera-for-Privent-Unotherized-Access/blob/main/Drawing1.jpg)
 # Flowchart of the project
